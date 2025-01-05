@@ -123,4 +123,3 @@ L'administrateur dispose des fonctionnalités suivantes :
      ```
      http://localhost/TD-LOG-20-20/
      ```
-
